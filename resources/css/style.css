@@ -11,3 +11,17 @@ a {
   font-size: 16px;
   align-items: center;
 }
+h2 {
+  font-family: verdana;
+  font-weight: normal;
+  font-size: 42px;
+  color: white;
+  text-align:center;
+}
+p {
+  font-family: verdana;
+  font-weight: normal;
+  font-size: 21px;
+  color: gray;
+  text-align:center;
+}
