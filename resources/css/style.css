@@ -1,12 +1,13 @@
 h1 {
   font-family: verdana;
-  font-weight: normal;
+  font-weight: bold;
   font-size: 50px;
   color: white;
-  align-self: center;
+  text-align:center;
 }
-p.link {
+a {
   font-family: verdana;
   color: aquamarine;
   font-size: 16px;
+  align-items: center;
 }
